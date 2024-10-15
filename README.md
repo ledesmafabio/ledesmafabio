@@ -1,6 +1,6 @@
 - 👋 My name is Fabio Ledesma, I am a University Professor of Computer Science and a Bachelor of Information Systems 
 - 👀 I’m interested in AR/VR/XR and game development
-- 🌱 I’m currently working on my master's thesis in Information Technology
+- 🌱 I’m currently working on my PhD's thesis in Information Technology
 - 💞️ I’m looking to collaborate on AR/VR/XR and game development
 - 📫 you can contact me by email ledesmafabio@gmail.com
 
